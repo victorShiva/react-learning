@@ -17,7 +17,7 @@ function Card({userName='Unknown',btnText}){    // btnText='View-Profile'
     debitis?
     </p>
     <button className="mt-2 inline-flex cursor-pointer items-center text-sm   font-semibold text-white">
-    {btnText || 'Porfile'} →
+    {btnText || 'Profile'} →
     </button>
     </div>
     </div>
